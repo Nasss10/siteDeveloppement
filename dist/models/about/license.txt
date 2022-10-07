@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mario Coin block - free
+* source:	https://sketchfab.com/3d-models/mario-coin-block-free-8da1ec3b23b140cda619b6c4b5f6c8a2
+* author:	Ahmed bouraoui (https://sketchfab.com/Anecx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mario Coin block - free" (https://sketchfab.com/3d-models/mario-coin-block-free-8da1ec3b23b140cda619b6c4b5f6c8a2) by Ahmed bouraoui (https://sketchfab.com/Anecx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
